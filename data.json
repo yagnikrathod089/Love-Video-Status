@@ -39,24 +39,6 @@
           "thumb": "https://static.langimg.com/thumb/msid-86673998,width-392,height-514,resizemode-4/navbharat-times.jpg",
           "title": "Love"
         },
-        {
-          "description": "Love Video Status",
-          "sources": [
-            "https://firebasestorage.googleapis.com/v0/b/vdodemo-a721e.appspot.com/o/Love%2FY2Mate.is%20-%20Shiddat%20Movie%20Sad%20Status%20%204K%20Full%20Screen%20Status%20%20Radhika%20Madan%2C%20Sunny%20Kaushal%20%20AB%20Status-FSYaMopTbHY-480p-1643106686807.mp4?alt=media&token=df7ed5a9-e0a1-4cbd-bd19-f73c35434d82"
-          ],
-          "subtitle": "Shiddat",
-          "thumb": "https://static.langimg.com/thumb/msid-86673998,width-392,height-514,resizemode-4/navbharat-times.jpg",
-          "title": "Love"
-        },
-        {
-          "description": "Love Video Status",
-          "sources": [
-            "https://firebasestorage.googleapis.com/v0/b/vdodemo-a721e.appspot.com/o/Love%2FY2Mate.is%20-%20Shiddat%20Movie%20Sad%20Status%20%204K%20Full%20Screen%20Status%20%20Radhika%20Madan%2C%20Sunny%20Kaushal%20%20AB%20Status-FSYaMopTbHY-480p-1643106686807.mp4?alt=media&token=df7ed5a9-e0a1-4cbd-bd19-f73c35434d82"
-          ],
-          "subtitle": "Shiddat",
-          "thumb": "https://static.langimg.com/thumb/msid-86673998,width-392,height-514,resizemode-4/navbharat-times.jpg",
-          "title": "Love"
-        },
        {
           "description": "Piya O Piya",
           "sources": [
@@ -83,6 +65,33 @@
           "subtitle": "new love Video",
           "thumb": "https://i.pinimg.com/originals/97/f1/ea/97f1ea6da1b782737fedbdb4d19dc9f5.jpg",
           "title": "Bahubali "
+         },
+        {
+          "description": "Ms Dhoni",
+          "sources": [
+            "https://firebasestorage.googleapis.com/v0/b/vdodemo-a721e.appspot.com/o/Love%2FFULL%20SCREEN%20WHATSAPP%20STATUS%20VIDEO%20__%20ROMANTIC%20WHATSAPP%20STATUS(720P_HD).mp4?alt=media&token=91338fa2-498a-4a04-8ebc-1348c8f5ac91"
+          ],
+          "subtitle": "Ms Dhoni",
+          "thumb": "https://wallpaperaccess.com/full/4848123.jpg",
+          "title": "Pal Pal Dil ke pass"
+         },
+        {
+          "description": "Zalima",
+          "sources": [
+            "https://firebasestorage.googleapis.com/v0/b/vdodemo-a721e.appspot.com/o/Love%2FJO%20TERE%20KHAATIR%20TADPE%20PEHELE%20SE%20HE%20__%20ZALIMA%20SONG%20__%20FULL%20SCREEN%20WHATSAPP%20STATUS%20VIDEO(720P_HD).mp4?alt=media&token=bfdaf175-ed2a-46e0-a43c-6b9dbc521883"
+          ],
+          "subtitle": "Zalima",
+          "thumb": "https://www.deccanherald.com/sites/dh/files/article_images/2020/05/19/591605-458832617-1484474820.jpg",
+          "title": "Sharukhan"
+         },
+        {
+          "description": "",
+          "sources": [
+            "https://firebasestorage.googleapis.com/v0/b/vdodemo-a721e.appspot.com/o/Love%2FItni%20Di%20Baat%20Hai%20Song%204k%20full%20screen%20WhatsApp%20Status%20_%20PG%20Status%20_%20Mahesh%20Babu%20_%20I_m%20Music%20Lover(1080P_HD).mp4?alt=media&token=cf55d55a-6973-4396-90dd-beda80908ed8"
+          ],
+          "subtitle": "Mahesh Babu",
+          "thumb": "https://i.pinimg.com/originals/c4/30/58/c43058c3a572954c7702d702e7d331ba.png",
+          "title": "Mahesh Babu"
          }
       ]
     }
