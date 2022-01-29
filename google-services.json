@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556783805363",
+    "firebase_url": "https://love-video-status-5d694-default-rtdb.firebaseio.com",
+    "project_id": "love-video-status-5d694",
+    "storage_bucket": "love-video-status-5d694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556783805363:android:5a550f5bbc8399ce9461c6",
+        "android_client_info": {
+          "package_name": "com.example.lovevideostatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556783805363-pn5meppje8nrktssp1s7ie9u1so0m5f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODswqAjs5mC22w_b2-hnS41eVVQzKYwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556783805363-pn5meppje8nrktssp1s7ie9u1so0m5f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
